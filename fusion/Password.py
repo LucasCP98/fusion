@@ -1,0 +1,1 @@
+senha = 'Lindomar02='
